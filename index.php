@@ -1,3 +1,3 @@
 <?php
-//引用核心文件
+//寮曠敤鏍稿績鏂囦欢
 require'./ThinkPHP/ThinkPHP.php';
