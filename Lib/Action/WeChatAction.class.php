@@ -1,9 +1,9 @@
-<?php 
+<?php
 /**
  * 定义微信链接TOKEN
  */
 define("TOKEN", "woshileifeng");
-class WeiXinAction extends Action {
+class WeChatAction extends Action {
  
     public function index() {
 				if(isset($_GET["echostr"])){
